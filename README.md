@@ -6,10 +6,15 @@
 
 - Solving the challenge in python as visual studio IDE and technology is not open source and available only in windows environment.
 -  Restaurant Promos : It refers to Hot Deals.
--  Menu : Refers to items in the menu
+-  Menu : Refers to items in the menu.
 -  Order : Refers to order an item.
 
-### Foodie uses;
+## Git Link
+
+-[Foodie](https://github.com/smathilakath/Codename-Foodie.git)
+
+### Prerequisite;
+  - Unix
   - Python v2.7.10 
   - MySQL v5.6.27
   - pip v7.1.2
@@ -35,8 +40,6 @@ DATABASES = {
     }
 }
 ```
-
-
 
 - You need a  to install a stable version python 2 native programming language.
 ```sh
@@ -69,8 +72,3 @@ $ source bin/activate
 ```sh
  $ python manage.py runserver
 ```
-
-License
-----
-
-Foodie uses MIT Licence. We are open source and stand forever.
